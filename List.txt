@@ -20,6 +20,12 @@ bangumi.tv###headerNeue2 > div.headerNeueInner.clearit > div.idBadgerNeue:nth-ch
 bangumi.tv###introWrapper
 bangumi.tv###navMenuNeue > li.doujin:last-child
 bangumi.tv###robot
+dmhy.anoneko.com###\31 280_ad
+dmhy.anoneko.com###\31 280_adv
+dmhy.anoneko.com###pkpk
+dmhy.anoneko.com##div.container:first-child > div.bg:first-child > div.main:last-child > div:nth-child(5)
+dmhy.anoneko.com##div.container:first-child > div.bg:first-child > div.main:last-child > div.clear:nth-child(10)
+duckduckgo.com##.center_root__Uf1xM.minimalHomepageDesktopCta_darkBg__XyQyn.minimalHomepageDesktopCta_minimalHomepageDesktopCtaWrapper__CNYmt
 duckduckgo.com##.footer
 duckduckgo.com##.has-inactive-region.is-active.dropdown--region.dropdown
 duckduckgo.com##.header--aside, .js-header-aside
@@ -31,6 +37,8 @@ duckduckgo.com##.search-filters-wrap
 duckduckgo.com##.serp__bottom-right, .js-serp-bottom-right
 duckduckgo.com##.text_text__q9rvO.text_text-md__x96X3.tagline_tagline__xryVo
 duckduckgo.com###duckbar_dropdowns
+economist.com##.ds-masthead-nav-beta
+economist.com##.e3e40d40.css-9xx9q4
 m.manhuagui.com##.auimg
 m.manhuagui.com##.logo
 m.manhuagui.com##.main-nav
@@ -44,51 +52,114 @@ m.youtube.com##.mobile-topbar-header-sign-in-button
 m.youtube.com##ytm-menu
 m.youtube.com##ytm-reel-shelf-renderer.modern-typography.item
 m.youtube.com##ytm-slim-video-action-bar-renderer
+moeyy.cn##.mdui-card-header
+moeyy.cn##.mdui-col-sm-7 > .mdui-row
+moeyy.cn##.mdui-color-theme.mdui-toolbar
+moeyy.cn##.mdui-row-lg-1.mdui-row-xl-2
+moeyy.cn##.mdui-typo-subheading
+moeyy.cn##small
+movie.douban.com###dale_movie_subject_top_right
 music.youtube.com##.yt-spec-button-shape-next--icon-leading.yt-spec-button-shape-next--size-m.yt-spec-button-shape-next--mono.yt-spec-button-shape-next--outline.yt-spec-button-shape-next
 music.youtube.com##.ytmusic-grid-renderer.style-scope
 music.youtube.com##.ytmusic-responsive-list-item-renderer.style-scope.menu
 music.youtube.com##.ytmusic-tab-renderer.style-scope.autoplay
+music.youtube.com##.ytp-chrome-top
 music.youtube.com###like-button-renderer
 music.youtube.com###right-content
 music.youtube.com##yt-icon.yt-checkbox-renderer.style-scope
 music.youtube.com##ytmusic-guide-signin-promo-renderer.ytmusic-guide-renderer.style-scope
 music.youtube.com##ytmusic-queue-header-renderer.ytmusic-tab-renderer.style-scope
-search.bilibili.com##.i_button_more.vui_button--active-shrink.vui_button
+my.eudic.net##.col-sm-3, .col-md-3, .col-lg-3
+my.eudic.net##.col-sm-4
+my.eudic.net##.list-header
+pan.baidu.com##.dis-footer
+pan.baidu.com##.header-box
+pan.baidu.com##.is-active.router-link-exact-active.wp-s-aside-nav__main-item.item.u-tooltip
+pan.baidu.com##.video-other-title
+pan.baidu.com##.video-title-right-open-mobile
+pan.baidu.com##.wp-s-aside-nav__list-shortcut-contain
+pan.baidu.com##.wp-s-aside-nav__main-bottom
+pan.baidu.com##.wp-s-header
+pan.baidu.com###video-toolbar
+pan.baidu.com##a.wp-s-aside-nav__main-item.item.u-tooltip:nth-of-type(3)
+pan.baidu.com##div.video-functions-tips
+piped.video##.children\:mx-3.text-center.py-4.rounded-xl.w-full.mt-10
+piped.video##.gap-1.flex-wrap.flex.ml-auto
+piped.video##.gap-2.flex-wrap.flex.mt-2
+piped.video##.gap-2\.5.items-center.flex
+piped.video##.items-center.flex.mt-1.comment-footer
+piped.video##.ml-1.fa-check.svg-inline--fa
+piped.video##.ml-1\.5.fa-check.svg-inline--fa
+piped.video##.rounded-full.w-12.h-12.comment-avatar
+piped.video##.sm\:order-last.order-first
+piped.video##.sm\:px-4.pb-2\.5.px-2.justify-center.items-center.flex-wrap.flex.w-full.relative
+piped.video##div.gap-2.flex:nth-of-type(2)
+piped.video##div.w-full > .ml-1\.5
+piped.video##strong
+play.qobuz.com##.ActionsBar
+play.qobuz.com##.pct-buy.pct.Header__link
+play.qobuz.com##.pct-more.pct.player__track-more
+play.qobuz.com##.player__settings-control
+play.qobuz.com##.player__settings-volume
+play.qobuz.com##.Profil
 search.bilibili.com##.i_button_more.vui_button--active-shrink.vui_button
 search.bilibili.com##.p_absolute.flex_col_end.side-buttons
-search.bilibili.com##.p_absolute.flex_col_end.side-buttons
 search.bilibili.com###bili-header-container
-search.bilibili.com###bili-header-container
-search.bilibili.com###biliMainFooter
 search.bilibili.com###biliMainFooter
 search.brave.com##.svelte-bwuh0n
 search.brave.com###settings-button
 search.brave.com##li.svelte-l27j4r.tab-item:nth-of-type(5)
 space.bilibili.com##.elec.section
-space.bilibili.com##.elec.section
-space.bilibili.com##.h-action
 space.bilibili.com##.h-action
 space.bilibili.com##.i-live.section
-space.bilibili.com##.i-live.section
-space.bilibili.com##.to-top
 space.bilibili.com##.to-top
 space.bilibili.com###biliMainHeader
-space.bilibili.com###biliMainHeader
-t.bilibili.com##.bili-dyn-item__following
+startpage.com##.css-13o7eu2.footer-container
+startpage.com##.css-1srhmfm.nav-container
+startpage.com##.css-8oysku
 t.bilibili.com##.bili-dyn-item__following
 t.bilibili.com##.bili-dyn-item__more
-t.bilibili.com##.bili-dyn-item__more
-t.bilibili.com##.bili-dyn-sidebar
 t.bilibili.com##.bili-dyn-sidebar
 t.bilibili.com##.left
-t.bilibili.com##.left
-t.bilibili.com##.right
 t.bilibili.com##.right
 t.bilibili.com##.z-top-container
-t.bilibili.com##.z-top-container
+tieba.baidu.com##.card_top_right
+tieba.baidu.com##.clearfix.search_top
+tieba.baidu.com##.footer
+tieba.baidu.com##.ip-location
+tieba.baidu.com##.j_jb_ele
+tieba.baidu.com##.l_badge
+tieba.baidu.com##.lzl_s_r
+tieba.baidu.com##.p_mall_tail
+tieba.baidu.com##.p_mtail
+tieba.baidu.com##.right_bright.right_section
+tieba.baidu.com##.s_aside
+tieba.baidu.com##.share_btn_wrapper
+tieba.baidu.com##.tbui_aside_float_bar
+tieba.baidu.com###com_userbar > ul
+tieba.baidu.com###rich_ueditor_tpl
+tieba.baidu.com###selectsearch-icon
+tieba.baidu.com###tiebaCustomPassLogin
+tineye.com##footer
+tineye.com##header
+tineye.com##p
+toeflv3.kmf.com##.g-kmf-header-v6
+toeflv3.kmf.com##.js-kmf-footer
+toeflv3.kmf.com##.kmf-asidecol
+toeflv3.kmf.com##.statement
+tpo.xdf.cn##.clearfix.footer-wrap
+tpo.xdf.cn##.clearfix.wrap > a
+tpo.xdf.cn##.crumbs-container
+tpo.xdf.cn##.has-icon
+tpo.xdf.cn##.remind-container
+tpo.xdf.cn##.right-panel
 www.agedm.org##.global_notice_wrapper
 www.agedm.org##.index-app-dl.extra-box
 www.agedm.org###notice_box
+www.alipan.com##.link--w2Pbv
+www.alipan.com##.nav-sub-tab-member-info--g--Ae.membership-wrapper--6egJF
+www.alipan.com##.sign-bar--1XrSl
+www.alipan.com###adrive-open-splash-screen-iframe
 www.bilibili.com##.avatar
 www.bilibili.com##.bili-mini-mask
 www.bilibili.com##.bpx-player-ctrl-pip.bpx-player-ctrl-btn
@@ -132,6 +203,15 @@ www.bilibili.com###v_tag
 www.bilibili.com##div.feed-card:nth-of-type(7)
 www.bilibili.com##div.floor-single-card
 www.bilibili.com##div.is-rcmd.bili-live-card
+www.foreignaffairs.com##.align-items-center.justify-content-end.d-flex.col-4
+www.foreignaffairs.com##.col-lg-4.col-12
+www.foreignaffairs.com##.latest-issue-link.position-relative.d-block
+www.foreignaffairs.com##.magazine-actions
+www.foreignaffairs.com##.navbar-sticky-icon.header-account-link.px-3.order-2.d-lg-none.navbar-icon.my-account.position-relative.flyout__js-open
+www.foreignaffairs.com##.position-lg-absolute.h-100.order-lg-0.order-2.align-items-center.d-flex.sticky-action-links
+www.foreignaffairs.com##.print-hidden.mb-lg-0.mb-3.article-tools
+www.foreignaffairs.com##.site-footer
+www.foreignaffairs.com###nav-tab
 www.google.com##.appbar
 www.google.com##.iUh30.BCF2pd.eFM0qc
 www.google.com##.sKb6pb
@@ -139,6 +219,32 @@ www.google.com##.VDgVie.WRhYSc
 www.google.com##.yIbDgf.Q3DXx > .Q3DXx
 www.google.com##.ZhtFke
 www.google.com###gb
+www.nytimes.com##.css-1w3teyq
+www.nytimes.com##.e1j3jvdr1.css-1awy3rz
+www.nytimes.com##.e1j3jvdr1.css-cgqw5a
+www.scmp.com##.ef1hf1w0.css-act1f9.e16arlqc3
+www.scmp.com##.eg5341w0.css-xg4r6f
+www.scmp.com##.eg5341w24.css-s6zt92
+www.scmp.com##.eg5341w28.css-1pbnq3j
+www.scmp.com##.eg5341w28.css-z8hubl
+www.yhdmz.org##.bg.foucs
+www.yhdmz.org##.box.area
+www.yhdmz.org##.foot
+www.yhdmz.org##.r.dmus
+www.youtube.com##.ytd-recognition-shelf-renderer.style-scope
+www.youtube.com###action-buttons
+www.youtube.com###actions
+www.youtube.com###author-thumbnail
+www.youtube.com###description-inline-expander > .ytd-watch-metadata.style-scope
+www.youtube.com###end
+www.youtube.com###header
+www.youtube.com###masthead-container
+www.youtube.com###secondary
+www.youtube.com###sponsor-button
+www.youtube.com###start
+www.youtube.com###subscribe-button > .ytd-watch-metadata.style-scope
+www.youtube.com###voice-search-button
+www.youtube.com##ytd-mini-guide-renderer.ytd-app.style-scope
 www.zhihu.com##.AnswerItem-authorInfo--related.AnswerItem-authorInfo.AuthorInfo
 www.zhihu.com##.AppHeader-userInfo
 www.zhihu.com##.ContentItem-actions > span
@@ -165,6 +271,7 @@ www.zhihu.com##.css-woosw9
 www.zhihu.com##.ExploreHomePage-ContentSection-moreButton
 www.zhihu.com##.ExploreHomePage-specialsLogin
 www.zhihu.com##.LabelContainer-wrapper
+www.zhihu.com##.Modal-enter-done.undefined.Modal-wrapper
 www.zhihu.com##.Pc-word
 www.zhihu.com##.QuestionAuthor
 www.zhihu.com##.QuestionHeader-footer
@@ -185,12 +292,30 @@ zh.wikipedia.org##.vector-header-end
 zh.wikipedia.org##.vector-user-links
 zh.wikipedia.org###bluedeck_ding > div
 zh.wikipedia.org###right-navigation
+zh.wikisource.org##.catlinks
+zh.wikisource.org##.licenseFrame
+zh.wikisource.org##.mw-indicators
+zh.wikisource.org##.mw-list-item
+zh.wikisource.org###ca-talk
+zh.wikisource.org###footer
+zh.wikisource.org###p-editor
+zh.wikisource.org###p-electronpdfservice-sidebar-portlet-heading
+zh.wikisource.org###p-help-label
+zh.wikisource.org###p-lang
+zh.wikisource.org###p-personal
+zh.wikisource.org###p-tb
+zh.wikisource.org###p-views
+zh.wikisource.org###plainSister
+zh.wikisource.org###siteNotice
+zh.wikisource.org##td:nth-of-type(2)
+zh.wikisource.org##td:nth-of-type(4)
 zhuanlan.zhihu.com##.ColumnPageHeader-Button
 zhuanlan.zhihu.com##.ColumnPageHeader-profile
 zhuanlan.zhihu.com##.CornerButtons
 zhuanlan.zhihu.com##.css-1fo89v5
 zhuanlan.zhihu.com##.css-805ti0
 zhuanlan.zhihu.com##.css-woosw9
+zhuanlan.zhihu.com##.Modal-enter-done.undefined.Modal-wrapper
 zhuanlan.zhihu.com##.Post-SideActions
 zhuanlan.zhihu.com##.Recommendations-Main
 zhuanlan.zhihu.com##.sticker
